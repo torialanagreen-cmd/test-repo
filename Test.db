@@ -1,0 +1,1 @@
+First I started off by entering SELECT track_name, artist, duration_min, popularity FROM spotify_top_1000_tracks WHERE duration_min >4 and artist like 'A%'ORDER by artist ASC, duration_min DESC;
